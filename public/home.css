@@ -1,0 +1,12 @@
+#starter {
+    display:flex;
+}
+
+#starter img{
+    max-height:229px;
+}
+
+#heading{
+    margin-top:auto;
+    margin-bottom: auto;
+}
