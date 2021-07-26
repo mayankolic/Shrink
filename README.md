@@ -4,3 +4,4 @@ It is a URL shortener website that basically provides a shortened version of Lon
 
 ## Programming Languages/Tech Stack used
 
+![Programming Languages](/screenshots/Languages.png)
