@@ -1,10 +1,10 @@
 {
-  "name": "url-shortener",
+  "name": "shrinkinator",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "devstart": "nodemon app.js",
+   "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shashank Taliwal",
