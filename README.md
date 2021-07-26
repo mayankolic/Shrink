@@ -33,7 +33,7 @@ It is a URL shortener website that basically provides a shortened version of Lon
 ![URL shortened](/screenshots/Shorturl.png)
 
 ### Number of clicks updated on the shorter link and new link is working
-#### Number of times the smaller version of the link has been clicked is displayed adjacent to the smaller link in the table below as well as the new ##Codeforces tab also gets opened 
+#### Number of times the smaller version of the link has been clicked is displayed adjacent to the smaller link in the table below as well as the new ![Codeforces](https://codeforces.com/)Codeforces tab also gets opened 
 ![Number of clicks updated on the shorter link and new link is working](/screenshots/clicks.png)
 
 
