@@ -4,8 +4,9 @@ const ShortUrl = require('./models/shortUrl')
 const app = express();
 const port= process.env.PORT||3000;
 app.use(express.static(__dirname+'/public'));
-mongoose.connect('mongodb://localhost/urlShortener', {
-  useNewUrlParser: true, useUnifiedTopology: true
+const db = "mongodb+srv://jhamayank996:jhamayank996@cluster01.fg2smvp.mongodb.net/";
+mongoose.connect(db,{
+	useNewUrlParser: true,
 });
 
 app.set('view engine', 'ejs')
